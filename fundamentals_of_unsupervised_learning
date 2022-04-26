@@ -1,0 +1,9 @@
+Email Spam filter
+
+Basic Terminologies
+
+Input variable - Text of emails; Also knows as features or predictors or independent variables
+output variable - what we are trying to predict—is the label “spam” or “not spam.” target variable, dependent variable, or response variable
+
+The set of examples the AI trains on is known as the training set
+each individual example is called a training instance or sample
